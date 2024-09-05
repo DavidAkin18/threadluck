@@ -1,5 +1,5 @@
 <template>
-<footer class="bg-white mt-20 text-black border-t py-8">
+<footer class="bg-white  text-black border-t py-8">
   <div class="container mx-auto px-4">
     <div class="flex flex-col md:flex-row md:w-10/12 mx-auto justify-between md:items-end gap-8">
          <!-- Social Media Section -->
