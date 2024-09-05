@@ -2,8 +2,8 @@
   <div>
     <Navbar />
     <!-- <hr class="border-2 border-[#fbbf24]"> -->
-    <Main />
-    <FashionCategory />
+    <Main id="about" />
+    <FashionCategory id="menu" />
     <CustomerReview />
     <Footer />
   </div>

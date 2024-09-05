@@ -1,19 +1,5 @@
 <template>
-    <!-- <nav class="fixed z-20 top-0 w-full h-16 md:h-28 border-b-2 border-b-[#D4AF37] p-2 md:px-10 flex justify-between items-center bg-white shadow-md z-10">
-        <div class="logo ">
-            <img src="../../assets/logo.jpeg" alt="threadluck" class="h-10 w-16 md:w-40 md:h-24">
-        </div>
-
-        <ul class="flex text-xs gap-4 sm:text-sm md:text-lg lg:text-xl font-semibold text-gray-700">
-            <li v-for="(item, index) in lists" :key="index" class="flex items-center gap-1">
-                <a :href="item.link" @click.prevent="handleClick(item.link)">
-                <i :class="item.icon "></i>
-                {{ item.name }}
-                </a>
-            </li>
-        </ul>
-    </nav> -->
-    <nav class="fixed z-20 top-0 w-full h-16 md:h-28 border-b-2 border-b-[#D4AF37] p-2 md:px-10 flex justify-between items-center bg-white shadow-md">
+    <nav class="fixed z-20 top-0 w-full h-16 md:h-28 border-b shadow-[0_4px_6px_rgba(212,175,55,0.5)] border-b-[#D4AF37] p-2 md:px-10 flex justify-between items-center bg-white shadow-md">
     <div class="logo">
         <img src="../../assets/logo.jpeg" alt="threadluck" class="h-10 w-16 md:w-40 md:h-24">
     </div>
@@ -90,20 +76,4 @@ nav a {
   color: #333333;
   transition: color 0.3s ease;
 }
-
-nav a:hover {
-  color: #fbbf24;
-}
-
-/* nav i {
-  font-size: 20px;
-} */
-
-@media (max-width: 768px) {
-  /* nav ul {
-    flex-direction: column;
-    gap: 2px;
-  } */
-}
-
 </style>

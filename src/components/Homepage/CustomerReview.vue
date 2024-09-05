@@ -1,18 +1,20 @@
 <template>
-     <div class="py-6 border bg-white mt-20 border-[#D4AF37] w-full">
-        <h3 class="text-3xl text-[#D4AF37] font-bold pl-2">Customer Reviews:</h3>
+    <div class="bg-gray-50">
+      <div class="md:w-10/12 mx-auto  pt-10  mt-20  w-full">
+        <h3 class="text-3xl font-bold text-gray-700 pl-2">Customer Reviews:</h3>
         <div class="overflow-x-auto whitespace-nowrap py-4">
-        <div class="reviews-track flex">
+          <div class="reviews-track flex gap-6">
             <div
-            v-for="(review, index) in reviews"
-            :key="index"
-            class="inline-block w-80 h-64 mx-4 p-6 bg-white rounded-lg shadow-lg text-center"
-            >
-            <p class="text-lg text-black italic mb-4">"{{ review.message }}"</p>
-            <h3 class="text-xl font-semibold text-[#D4AF37]">- {{ review.author }}</h3>
+              v-for="(review, index) in reviews"
+              :key="index"
+              class="inline-block h-34 border mx-4 p-6 bg-white rounded-lg shadow-lg text-center"
+              >
+              <p class="text-lg text-gray-700 italic mb-4">"{{ review.message }}"</p>
+              <h3 class="text-xl font-semibold text-[#D4AF37]">- {{ review.author }}</h3>
             </div>
+          </div>
         </div>
-        </div>
+      </div>
     </div>
 </template>
 
@@ -22,10 +24,10 @@ export default {
         return {
         reviews: [
             { message: "Great product and fast delivery! ", author: "John Doe" },
-            { message: "Excellent customer service and quality!", author: "Jane Smith" },
-            { message: "Very satisfied with my purchase.", author: "David Lee" },
-            { message: "Will definitely recommend to others.", author: "Emily Brown" },
-            { message: "A seamless shopping experience!", author: "Michael Wilson" },
+            { message: "Awwwn so beautiful . I like everything. Thank you dear.", author: "Simisola" },
+            { message: "Thank you for making my loom good", author: "Lola" },
+            { message: "The dress fits me so well love you", author: "Timi" },
+            { message: "Best Aso Ebi cloths every!!. Everybody was admiring me at the party", author: "Sayo" },
             { message: "Amazing quality and fast support.", author: "Sophia Taylor" },
             { message: "Exceeded my expectations!", author: "Ethan Thomas" },
             { message: "Five-star experience all the way!", author: "Olivia Martin" },
@@ -44,10 +46,6 @@ export default {
 
 .border {
   border-color: #D4AF37;
-}
-
-.text-[#D4AF37] {
-  color: #D4AF37;
 }
 
 .shadow-lg {
