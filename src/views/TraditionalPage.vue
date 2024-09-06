@@ -1,7 +1,7 @@
 <template>
   <div class="">
     <Navbar />
-    <h1 class="h-46 text-6xl">Traditional</h1>
+    <h1 class="min-h-screen text-6xl">Traditional</h1>
 
     <Footer />
   </div>

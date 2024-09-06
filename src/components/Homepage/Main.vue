@@ -35,7 +35,7 @@
             Join us in embracing a fashion revolution where every piece tells a story of individuality and grace.
         </p>
     </div>-->
-    <div class="md:flex items-center gap-4 justify-between"> 
+    <div class="md:flex items-center gap-4 justify-between" id="about"> 
       <div class="md:w-1/3 w-full" >
         <img src="../../assets/intro_image.jpg" alt="" class=" w-full h-auto rounded-lg ">
       </div>

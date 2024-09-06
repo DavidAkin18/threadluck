@@ -2,7 +2,7 @@
   <div>
     <Navbar />
     <!-- <hr class="border-2 border-[#fbbf24]"> -->
-    <Main id="about" />
+    <Main />
     <FashionCategory id="menu" />
     <CustomerReview />
     <Footer />
