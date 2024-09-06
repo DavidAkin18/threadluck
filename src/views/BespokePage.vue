@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navbar />
-    <h1 class="min-h-screen text-6xl">Ready to wear</h1>
+    <WeddingWears />
     <Footer />
   </div>
 </template>
@@ -9,11 +9,13 @@
 <script>
 import Footer from '@/components/Footer/Footer.vue';
 import Navbar from '@/components/Homepage/Navbar.vue';
+import WeddingWears from '@/components/Wedding.vue/WeddingWears.vue';
 
 export default {
     components:{
         Navbar,
-        Footer
+        Footer,
+        WeddingWears
     }
 }
 </script>

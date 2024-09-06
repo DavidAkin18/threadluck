@@ -3,18 +3,18 @@
     <h1 class="text-3xl text-gray-700 font-bold py-6">FASHION CATEGORIES:</h1>
     <div class="flex flex-col md:flex-row items-start justify-center gap-4">
         <div class="w-full rounded-t-lg shadow-[0_4px_6px_rgba(212,175,55,0.5)] md:w-1/3 bg-white flex flex-col items-center">
-            <img src="../../assets/intro_image.jpg" alt="" class="rounded-t-lg w-full object-cover">
-            <h3 class="mt-2 text-xl py-4 font-semibold text-gray-700">Traditional</h3>
+            <img src="../../assets/trad17.jpeg" alt="" class="rounded-t-lg w-full object-cover">
+            <h3 class="mt-2 text-xl py-4 font-semibold text-gray-700">Aso-Ebi</h3>
             <button class="mt-auto w-full hover:bg-[#D4AF37] border border-[#D4AF37]  text-black  font-bold py-3 px-6 shadow-lg transition duration-300"><router-link to="traditional">Check Out</router-link></button>
         </div>
         <div class="w-full shadow-[0_4px_6px_rgba(212,175,55,0.5)] shadow-[#D4AF37] rounded-t-lg  md:w-1/3 bg-white flex flex-col items-center">
-            <img src="../../assets/hero.jpeg" alt="" class="rounded-t-lg w-full object-cover">
-            <h3 class="mt-2 text-xl py-4 font-semibold text-gray-700">Bespoke</h3>
+            <img src="../../assets/wedding4.jpeg" alt="" class="rounded-t-lg w-full border h-[445px] ">
+            <h3 class="mt-2 text-xl py-4 font-semibold text-gray-700">Wedding</h3>
             <button class="mt-auto w-full hover:bg-[#D4AF37] border border-[#D4AF37]  text-black  font-bold py-3 px-6  shadow-lg transition duration-300"><router-link to="bespoke">Check Out</router-link></button>
         </div>
         <div class="w-full  shadow-[0_4px_6px_rgba(212,175,55,0.5)] shadow-[#D4AF37] rounded-t-lg  md:w-1/3 bg-white flex flex-col items-center">
-            <img src="../../assets/readyToWear.jpeg" alt="" class="rounded-t-lg w-full object-cover">
-            <h3 class="mt-2 text-xl py-4 font-semibold text-gray-700">Ready to wear</h3>
+            <img src="../../assets/ready1.jpeg" alt="" class="rounded-t-lg w-full object-cover">
+            <h3 class="mt-2 text-xl py-4 font-semibold text-gray-700">Ready-to-wear</h3>
             <button class="mt-auto w-full hover:bg-[#D4AF37] border border-[#D4AF37] text-black font-bold py-3 px-6  shadow-lg transition duration-300"><router-link to="ready">Check Out</router-link></button>
         </div>
     </div>

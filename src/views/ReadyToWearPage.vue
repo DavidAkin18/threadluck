@@ -1,8 +1,7 @@
 <template>
   <div>
     <Navbar />
-    <h1 class="min-h-screen text-6xl">BeSpoke</h1>
-
+    <ReadyToGo />
     <Footer />
   </div>
 </template>
@@ -10,10 +9,12 @@
 <script>
 import Footer from '@/components/Footer/Footer.vue';
 import Navbar from '@/components/Homepage/Navbar.vue';
+import ReadyToGo from '@/components/ReadyToGo/ReadyToGo.vue';
 
 export default {
 components:{
     Navbar,
+    ReadyToGo,
     Footer
 }
 }

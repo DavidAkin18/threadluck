@@ -1,20 +1,21 @@
 <template>
   <div class="">
     <Navbar />
-    <h1 class="min-h-screen text-6xl">Traditional</h1>
-
-    <Footer />
+    <MainAsoEbi />
+    <Footer class="" />
   </div>
 </template>
 
 <script>
+import MainAsoEbi from '@/components/AsoEbi.vue/MainAsoEbi.vue';
 import Footer from '@/components/Footer/Footer.vue';
 import Navbar from '@/components/Homepage/Navbar.vue';
 
 export default {
 components:{
     Footer,
-    Navbar
+    Navbar,
+    MainAsoEbi
 }
 }
 </script>

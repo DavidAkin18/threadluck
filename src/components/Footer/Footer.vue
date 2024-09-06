@@ -1,5 +1,5 @@
 <template>
-<footer class="bg-white   w-full text-black border-t py-8">
+<footer class="bg-white w-full text-black border-t py-8">
   <div class="container mx-auto px-4">
     <div class="flex flex-col md:flex-row md:w-10/12 mx-auto justify-between md:items-end gap-8">
          <!-- Social Media Section -->
@@ -9,7 +9,7 @@
                 <p class="text-gray-700 text-lg font-bold">All the luck and more! </p>
             </div>
             <h3 class="text-xl text-gray-700 pb-2 font-semibold ">Follow Us</h3>
-            <div class="flex space-x-6">
+            <div class="flex space-x-6 text-center md:text-left">
                 <a href="https://www.facebook.com" target="_blank" class="text-gold hover:text-yellow-300">
                 <i class="ri-facebook-circle-line text-3xl"></i>
                 </a>
