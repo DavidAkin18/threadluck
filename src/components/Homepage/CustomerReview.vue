@@ -3,7 +3,7 @@
       <div class="md:w-10/12 mx-auto  pt-10  mt-20  w-full">
         <h3 class="text-3xl font-bold text-gray-700 pl-2">Customer Reviews:</h3>
         <div class="overflow-x-auto whitespace-nowrap py-4">
-          <div class="reviews-track flex gap-6">
+          <div class="reviews-track flex gap-4 md:gap-6">
             <div
               v-for="(review, index) in reviews"
               :key="index"
