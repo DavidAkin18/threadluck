@@ -1,24 +1,42 @@
 <template>
-  <div class="md:w-10/12  p-2 mx-auto min-h-full border-[#D4AF37] p-4">
-    <h1 class="text-3xl text-gray-700 font-bold py-6">FASHION CATEGORIES:</h1>
-    <div class="flex flex-col md:flex-row items-start justify-center gap-4">
-        <div class="w-full rounded-t-lg shadow-[0_4px_6px_rgba(212,175,55,0.5)] md:w-1/3 bg-white flex flex-col items-center">
-            <img src="../../assets/trad17.jpeg" alt="" class="rounded-t-lg w-full object-cover">
-            <h3 class="mt-2 text-xl py-4 font-semibold text-gray-700">Aso-Ebi</h3>
-            <button class="mt-auto w-full hover:bg-[#D4AF37] border border-[#D4AF37]  text-black  font-bold py-3 px-6 shadow-lg transition duration-300"><router-link to="traditional">Check Out</router-link></button>
-        </div>
-        <div class="w-full shadow-[0_4px_6px_rgba(212,175,55,0.5)] shadow-[#D4AF37] rounded-t-lg  md:w-1/3 bg-white flex flex-col items-center">
-            <img src="../../assets/wedding4.jpeg" alt="" class="rounded-t-lg w-full border h-[445px] ">
-            <h3 class="mt-2 text-xl py-4 font-semibold text-gray-700">Wedding</h3>
-            <button class="mt-auto w-full hover:bg-[#D4AF37] border border-[#D4AF37]  text-black  font-bold py-3 px-6  shadow-lg transition duration-300"><router-link to="bespoke">Check Out</router-link></button>
-        </div>
-        <div class="w-full  shadow-[0_4px_6px_rgba(212,175,55,0.5)] shadow-[#D4AF37] rounded-t-lg  md:w-1/3 bg-white flex flex-col items-center">
-            <img src="../../assets/ready1.jpeg" alt="" class="rounded-t-lg w-full object-cover">
-            <h3 class="mt-2 text-xl py-4 font-semibold text-gray-700">Ready-to-wear</h3>
-            <button class="mt-auto w-full hover:bg-[#D4AF37] border border-[#D4AF37] text-black font-bold py-3 px-6  shadow-lg transition duration-300"><router-link to="ready">Check Out</router-link></button>
-        </div>
+ <div class="md:w-10/12 mx-auto min-h-full border mt-20 p-4 border-[#D4AF37]">
+  <h1 class="text-3xl text-gray-700 font-bold py-6 text-center">Fashion Categories</h1>
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    <!-- Aso-Ebi Section -->
+    <div class="bg-white rounded-lg  w-[90%] mx-auto shadow-[0_4px_6px_rgba(212,175,55,0.5)] flex flex-col items-center">
+      <img src="../../assets/trad13.jpeg" alt="Aso Ebi Image" class="rounded-t-lg w-full object-cover h-[400px]">
+      <div class="py-4 text-center">
+        <h3 class="text-xl font-semibold text-gray-700">Aso-Ebi</h3>
+      </div>
+      <button class="w-full bg-white hover:bg-[#D4AF37] hover:text-white border border-[#D4AF37] text-black font-bold py-3 px-6 transition duration-300">
+        <router-link to="traditional">Check Out</router-link>
+      </button>
     </div>
+
+    <!-- Wedding Section -->
+    <div class="bg-white rounded-lg shadow-[0_4px_6px_rgba(212,175,55,0.5)]  w-[90%] mx-auto  flex flex-col items-center">
+      <img src="../../assets/wedding8.jpeg" alt="Wedding Image" class="rounded-t-lg w-full object-cover h-[400px]">
+      <div class="py-4 text-center">
+        <h3 class="text-xl font-semibold text-gray-700">bridals</h3>
+      </div>
+      <button class="w-full bg-white hover:bg-[#D4AF37] hover:text-white border border-[#D4AF37] text-black font-bold py-3 px-6 transition duration-300">
+        <router-link to="bespoke">Check Out</router-link>
+      </button>
+    </div>
+
+    <!-- Ready-to-Wear Section -->
+    <div class="bg-white rounded-lg shadow-[0_4px_6px_rgba(212,175,55,0.5)]  w-[90%] mx-auto  flex flex-col items-center">
+      <img src="../../assets/casual.jpeg" alt="Ready-to-wear Image" class="rounded-t-lg w-full object-cover h-[400px]">
+      <div class="py-4 text-center">
+        <h3 class="text-xl font-semibold text-gray-700">Ready-to-Wear</h3>
+      </div>
+      <button class="w-full bg-white hover:bg-[#D4AF37] hover:text-white border border-[#D4AF37] text-black font-bold py-3 px-6 transition duration-300">
+        <router-link to="ready">Check Out</router-link>
+      </button>
+    </div>
+  </div>
 </div>
+
 
 </template>
 
