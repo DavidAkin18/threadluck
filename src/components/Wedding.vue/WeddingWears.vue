@@ -1,8 +1,8 @@
 <template>
-   <div id="menu" class="md:w-11/12 mx-auto border border-[#D4AF37]  w-full my-20 md:mt-36 py-4 px-4">
+   <div id="menu" class="md:w-11/12 mx-auto border border-[#D4AF37]  w-full my-16 md:mt-36 py-4 px-4">
         <!-- Title Section -->
         <h1 class="text-3xl px-2 font-bold text-gray-800 text-center mb-4">Bridals Collection</h1>
-        <p class="md:w-1/2 text-sm md:text-md text-gray-600 mx-auto text-center mb-8">
+        <p class="md:w-1/2 text-sm md:text-md text-gray-600 mx-auto text-center mb-4 md:mb-8">
             Discover our luxurious bridals collection, where timeless beauty and contemporary design come together, making every bride's dream look a reality.
         </p>
 

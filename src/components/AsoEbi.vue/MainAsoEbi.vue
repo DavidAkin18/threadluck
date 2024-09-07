@@ -1,8 +1,8 @@
 <template>
-  <div id="menu" class="md:w-11/12 mx-auto border border-[#D4AF37]  w-full mt-20 md:mt-36 py-4 px-4">
+  <div id="menu" class="md:w-11/12 mx-auto border border-[#D4AF37]  w-full mt-16 md:my-36 py-4 px-4">
     <!-- Title Section -->
     <h1 class="text-3xl px-2 font-bold text-gray-800 text-center mb-4">Aso-ebi Section</h1>
-    <p class="md:w-1/2 text-sm md:text-md text-gray-600 mx-auto text-center mb-8">
+    <p class="md:w-1/2 text-sm md:text-md text-gray-600 mx-auto text-center mb-4 md:mb-8">
       Explore our stunning collection of Aso Ebi outfits, where tradition meets elegance, making every piece a true statement of cultural pride.
     </p>
 
