@@ -1,7 +1,11 @@
 <template>
-    <section class="hero z-10  mt-16 md:mt-28 bg-cover bg-center h-screen flex items-center justify-center relative text-white overflow-hidden">
+  <section class="relative md:mt-14 overflow-hidden h-screen flex items-center justify-center text-white">
+        <div class="absolute inset-0 overflow-hidden">
+            <!-- Updated iframe URL with parameters to hide controls -->
+            <iframe src="https://www.youtube.com/embed/eyIljFYF5ug?autoplay=1&mute=1&loop=1&playlist=eyIljFYF5ug&controls=0&modestbranding=1&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="absolute inset-0 w-full h-full object-cover"></iframe>
+        </div>
         <div class="absolute inset-0 bg-black opacity-50"></div>
-        <div class="relative md:w-9/12 mx-auto z-10 text-center px-4 md:px-8">
+        <div class="relative z-10 text-center px-4 md:px-8">
             <h1 class="text-4xl md:text-6xl font-bold leading-tight mb-4">
                 Embrace Your Elegance with Threadluck
             </h1>
@@ -13,8 +17,7 @@
             </a>
         </div>
     </section>
-
-
+   
   <div class="p-4 mt-20   md:w-10/12 mx-auto  md:border-b border-b-[#D4AF37] ">
     <div class="md:flex items-center gap-4 justify-between" id="about"> 
       <div class="md:w-1/3 w-full" >
@@ -62,32 +65,7 @@ export default {
 </script>
 
 <style>
-.hero {
-  background-image: url('../../assets/hero.jpeg');
-  height: 80vh;
-  color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-size: cover;
-  background-position:top;
-}
 
-.hero-content {
-  z-index: 1;
-}
 
-.btn-primary {
-  background-color: #0056b3;
-  color: #fff;
-  padding: 10px 20px;
-  font-size: 1.2rem;
-  border-radius: 5px;
-  text-decoration: none;
-  transition: background-color 0.3s ease;
-}
 
-.btn-primary:hover {
-  background-color: #003d7a;
-}
 </style>

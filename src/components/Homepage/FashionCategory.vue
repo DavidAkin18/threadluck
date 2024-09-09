@@ -15,7 +15,7 @@
 
     <!-- Wedding Section -->
     <div class="bg-white rounded-lg shadow-[0_4px_6px_rgba(212,175,55,0.5)]  w-[90%] mx-auto  flex flex-col items-center">
-      <img src="../../assets/wedding8.jpeg" alt="Wedding Image" class="rounded-t-lg w-full object-cover h-[400px]">
+      <img src="../../assets/wed1.jpeg" alt="Wedding Image" class="rounded-t-lg w-full object-cover h-[400px]">
       <div class="py-4 text-center">
         <h3 class="text-xl font-semibold text-gray-700">bridals</h3>
       </div>
