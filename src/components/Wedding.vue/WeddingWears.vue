@@ -35,8 +35,6 @@
             <div class="md:flex flex-wrap gap-4 justify-center items-start">
                 <img src="../../assets/wedding10.jpeg" alt="Aso Ebi 8" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
                 <img src="../../assets/wedding11.jpeg" alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/wedding12.jpeg" alt="Aso Ebi 8" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/wedding13.jpeg" alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
             </div>
         </div>
     </div>
