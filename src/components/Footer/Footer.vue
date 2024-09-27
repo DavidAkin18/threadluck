@@ -39,7 +39,7 @@
         <h3 class="text-xl font-semibold text-gray-700 ">Contact Us</h3>
         <div class="flex items-center space-x-4">
           <i class="ri-whatsapp-line text-2xl text-gold"></i>
-          <a href="tel:0813-630-3442" target="_blank" >+1 (234) 813-630-3442</a>
+          <a href="tel:0813-630-3442" target="_blank" >0813-630-3442</a>
         </div>
         <div class="flex items-center space-x-4">
             <i class="ri-mail-line text-2xl text-gold"></i>
