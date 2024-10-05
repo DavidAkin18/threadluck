@@ -10,27 +10,27 @@
         <div class="pt-10 mx-auto">
              <!-- First Row -->
             <div class="md:flex flex-wrap gap-4 justify-center items-start">
-                <img src="../../assets/ready1.jpeg" alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/ready2.jpeg" alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/ready3.jpeg" alt="Aso Ebi 1" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/ready7.jpeg" alt="Aso Ebi 12" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087959/ready1_rjq9qo.jpg" alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087970/ready2_c9kqhr.jpg" alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087979/ready3_a5keps.jpg" alt="Aso Ebi 1" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087990/ready7_fww2kt.jpg" alt="Aso Ebi 12" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
             </div>
             
             <!-- Second Row -->
             <div class="md:flex flex-wrap gap-4 justify-center items-start mt-4">
-                <img src="../../assets/casual.jpeg" alt="Aso Ebi 12" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/casual2.jpeg" alt="Aso Ebi 6" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/casual4.jpeg" alt="Aso Ebi 5" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/ready5.jpeg" alt="Aso Ebi 11" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728086360/casual_gxlpvq.jpg" alt="Aso Ebi 12" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088157/casual2_ccsyhb.jpg" alt="Aso Ebi 6" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088163/casual4_ukyp73.jpg" alt="Aso Ebi 5" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088175/ready5_dglm2t.jpg" alt="Aso Ebi 11" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
                
             </div>
 
             <!-- Third Row  -->
             <div class="md:flex flex-wrap gap-4 justify-center items-start mt-4">
-                <img src="../../assets/ready6.jpeg" alt="Aso Ebi 9" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/ready9.jpeg" alt="Aso Ebi 10" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/wedding12.jpeg" alt="Aso Ebi 8" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="../../assets/wedding13.jpeg" alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088259/ready6_emmync.jpg" alt="Aso Ebi 9" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088273/ready9_pbqicd.jpg" alt="Aso Ebi 10" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088286/wedding12_aeroch.jpg" alt="Aso Ebi 8" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088309/wedding13_rrrdq3.jpg" alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
             </div>
         </div>
     </div>

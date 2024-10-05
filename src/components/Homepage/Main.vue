@@ -21,7 +21,7 @@
   <div class="p-4 mt-20   md:w-10/12 mx-auto  md:border-b border-b-[#D4AF37] ">
     <div class="md:flex items-center gap-4 justify-between" id="about"> 
       <div class="md:w-1/3 w-full" >
-        <img src="../../assets/intro_image.jpg" alt="" class=" w-full h-auto rounded-lg ">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728086221/intro_image_nwa6hv.jpg" alt="" class=" w-full h-auto rounded-lg ">
       </div>
       <div class="md:w-2/3 pt-10 items-start ">
         <div class="md:flex gap-2">

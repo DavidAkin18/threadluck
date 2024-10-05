@@ -5,7 +5,7 @@
          <!-- Social Media Section -->
         <div class="flex flex-col space-y-4 ">
             <div>
-                <img src="../../assets/logo.jpeg" alt="logo" class=" h-16 w-20 md:h-24 object-cover md:w-40">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728086142/logo_lnnpxu.jpg" alt="logo" class=" h-16 w-20 md:h-24 object-cover md:w-40">
                 <p class="text-gray-700 text-lg font-bold">All the luck and more! </p>
             </div>
             <h3 class="text-xl text-gray-700 pb-2 font-semibold ">Follow Us</h3>

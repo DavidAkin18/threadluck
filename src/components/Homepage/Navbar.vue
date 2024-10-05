@@ -1,7 +1,7 @@
 <template>
     <nav class="fixed z-20 top-0 w-full h-16 md:h-28 border-b shadow-[0_4px_6px_rgba(212,175,55,0.5)] border-b-[#D4AF37] p-2 md:px-10 flex justify-between items-center bg-white shadow-md">
     <div class="logo">
-        <img src="../../assets/logo.jpeg" alt="threadluck" class="h-10 w-16 md:w-40 md:h-24">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728086142/logo_lnnpxu.jpg" alt="threadluck" class="h-10 w-16 md:w-40 md:h-24">
     </div>
 
     <ul class="flex text-xs gap-4 sm:text-sm md:text-lg lg:text-xl font-semibold text-[#333333]">
