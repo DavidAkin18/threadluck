@@ -8,7 +8,7 @@
       <div class="py-4 text-center">
         <h3 class="text-xl font-semibold text-gray-700">Aso-Ebi</h3>
       </div>
-      <router-link to="traditional" class="w-full bg-white hover:bg-[#D4AF37] border border-[#D4AF37] text-black text-center font-bold py-3 px-6 transition duration-300"><button >
+      <router-link to="/aso-ebi" class="w-full bg-white hover:bg-[#D4AF37] border border-[#D4AF37] text-black text-center font-bold py-3 px-6 transition duration-300"><button >
         Check Out
       </button></router-link>
     </div>
@@ -19,7 +19,7 @@
       <div class="py-4 text-center">
         <h3 class="text-xl font-semibold text-gray-700">Bridals</h3>
       </div>
-      <router-link to="bespoke" class="w-full bg-white hover:bg-[#D4AF37] border border-[#D4AF37] text-black text-center font-bold py-3 px-6 transition duration-300"> <button >
+      <router-link to="/bridals" class="w-full bg-white hover:bg-[#D4AF37] border border-[#D4AF37] text-black text-center font-bold py-3 px-6 transition duration-300"> <button >
        Check Out
       </button></router-link>
     </div>
@@ -30,7 +30,7 @@
       <div class="py-4 text-center">
         <h3 class="text-xl font-semibold text-gray-700">Ready-to-Wear</h3>
       </div>
-      <router-link to="ready" class="w-full bg-white hover:bg-[#D4AF37] border border-[#D4AF37] text-black text-center font-bold py-3 px-6 transition duration-300"><button>
+      <router-link to="/ready-to-wear" class="w-full bg-white hover:bg-[#D4AF37] border border-[#D4AF37] text-black text-center font-bold py-3 px-6 transition duration-300"><button>
         Check Out
       </button></router-link>
     </div>

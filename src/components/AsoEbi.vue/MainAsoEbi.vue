@@ -35,23 +35,36 @@
 
       <!-- Forth Row -->
       <div class="md:flex flex-wrap gap-4 justify-center items-start">
-        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087056/trad17_ej9mft.jpg" alt="Aso Ebi 1" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087081/trad14_jkiuet.jpg" alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087112/trad11_rcxhkq.jpg" alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087142/trad12_latssm.jpg" alt="Aso Ebi 4" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087224/asoebi5_hl5lr7.jpg" 
+        alt="Aso Ebi 1" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087081/trad14_jkiuet.jpg" 
+        alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087112/trad11_rcxhkq.jpg" 
+        alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087142/trad12_latssm.jpg" 
+        alt="Aso Ebi 4" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
       </div>
 
       <div class="md:flex flex-wrap gap-4 justify-center items-start">
-        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087177/asoebi7_udly1x.jpg" alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087201/asoebi8_tejrlp.jpg" alt="Aso Ebi 4" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087224/asoebi5_hl5lr7.jpg" alt="Aso Ebi 1" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087317/asoebi6_nole8e.jpg" alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-      </div>
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729953464/tradNew8_d7wob3.jpg" 
+        alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729953493/trandNew4_ro75t2.jpg" 
+        alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729953329/tradnew2_qzqbni.jpg" 
+        alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729953424/tradNew7_hswr1q.jpg" 
+        alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+      </div> 
       <div class="md:flex flex-wrap gap-4 justify-center items-start">
-        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087254/asoebi9_uautrj.jpg" alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-      </div>
-
-      
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729953766/trandNew6_p6as8x.jpg" 
+        alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729952993/tradnew_k3ierq.png" 
+        alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729954174/tradNew9_ihgdsi.png" 
+        alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+        <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729955211/trandNewN_c6i2nd.jpg" 
+        alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+      </div> 
     </div>
   </div>
 </template>

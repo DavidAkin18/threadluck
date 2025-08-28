@@ -27,10 +27,43 @@
 
             <!-- Third Row  -->
             <div class="md:flex flex-wrap gap-4 justify-center items-start mt-4">
-                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088259/ready6_emmync.jpg" alt="Aso Ebi 9" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
-                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088273/ready9_pbqicd.jpg" alt="Aso Ebi 10" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088259/ready6_emmync.jpg" 
+                alt="Aso Ebi 9" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088273/ready9_pbqicd.jpg" 
+                alt="Aso Ebi 10" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
                 <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088286/wedding12_aeroch.jpg" alt="Aso Ebi 8" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
                 <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728088309/wedding13_rrrdq3.jpg" alt="Aso Ebi 2" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+            </div>
+
+            <div class="md:flex flex-wrap gap-4 justify-center items-start mt-4">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087254/asoebi9_uautrj.jpg" 
+                alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087177/asoebi7_udly1x.jpg" 
+                alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087201/asoebi8_tejrlp.jpg" 
+                alt="Aso Ebi 4" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087056/trad17_ej9mft.jpg" 
+                alt="Aso Ebi 1" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+            </div>
+            <div class="md:flex flex-wrap gap-4 justify-center items-start mt-4">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729951924/readNew_pkbcdr.jpg" 
+                alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729951984/readyNew1_lzb3nd.jpg" 
+                alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729952000/readynew2_wo8ziq.jpg" 
+                alt="Aso Ebi 4" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1728087056/trad17_ej9mft.jpg" 
+                alt="Aso Ebi 1" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+            </div>
+            <div class="md:flex flex-wrap gap-4 justify-center items-start mt-4">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729954364/readNew5_u3zuz8.jpg" 
+                alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729957004/readyNewww_fgcvp3.jpg" 
+                alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729956969/readyneew_dicdxh.jpg" 
+                alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
+                <img src="https://res.cloudinary.com/def9quyti/image/upload/v1729956888/readdyNeww_e49gu8.jpg" 
+                alt="Aso Ebi 3" class="my-2 w-full md:w-[22%] h-[450px] object-cover rounded-lg shadow-lg">
             </div>
         </div>
     </div>

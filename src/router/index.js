@@ -11,17 +11,17 @@ const routes = [
     component: HomeView
   },
   {
-    path:'/traditional',
+    path:'/aso-ebi',
     name:'traditional',
     component:TraditionalPage
   },
   {
-    path:'/bespoke',
+    path:'/bridals',
     name:'bespoke',
     component:BespokePage
   },
   {
-    path:'/ready',
+    path:'/ready-to-wear',
     name:'ready',
     component:ReadyToWearPage
   }
